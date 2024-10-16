@@ -33,7 +33,7 @@ rf.fit(X_train, y_train)
 # Faça previsões
 y_pred = rf.predict(X_test)
 
-from sklearn.metrics
+from sklearn.metrics import skln
 import confusion_matrix, classification_report
 
 # Matriz de confusão
